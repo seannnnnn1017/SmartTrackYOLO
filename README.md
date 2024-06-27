@@ -8,7 +8,11 @@ Easy Integration: Simple and straightforward integration with existing YOLO mode
 Dynamic Search Area: Automatically adjusts the search area based on the object's movement.
 ## Installation
 Clone the repository:
+
 `git clone https://github.com/yourusername/YOLOTrack.git`
+
 cd YOLOTrack
+
 Install the required packages:
+
 `pip install -r requirements.txt`
